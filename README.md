@@ -1,5 +1,5 @@
 # Mario Party in C
-made by DayKungZa while in history class
+made by DayKungZa while in history class ...and bio class ...and other classes, really.
 
 ## Setup
 To play, use Dev-C++, Code::Blocks, or an IDE with an external terminal, or simply run the .exe file!
